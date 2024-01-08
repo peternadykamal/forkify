@@ -41,7 +41,7 @@ To run Forkify on your machine, follow these steps:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/forkify.git
+   git clone https://github.com/peternadykamal/forkify
    ```
 
 2. Navigate to the project directory.
